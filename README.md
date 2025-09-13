@@ -9,7 +9,7 @@ This project takes a plant/animal name as input and generates a short poem dynam
 ![Poem Generator Screenshot 2](screenshot2.png)
 
 
-[View Project](https://your-github-krishnaveni-techie.github.io/poem-generator/)
+[View Project]( https://krishnaveni-techie.github.io/poem-generator/)
 
 ---
 
